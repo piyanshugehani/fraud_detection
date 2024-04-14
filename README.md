@@ -1,1 +1,1 @@
-# fraud_detection
+# Online payments fraud detection model
